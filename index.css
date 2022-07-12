@@ -1,0 +1,18 @@
+h2 {
+    color:brown;
+    font-size: 2rem;
+}
+
+.list-big {
+    margin-top: 4rem;
+    grid: flex;
+    text-align: center;
+}
+.list-added {
+    background-color: rgb(255, 242, 226);
+    font-size: 1.8rem;
+    list-style-type: none;
+}
+.list-form {
+    margin-top: 3rem;
+}
